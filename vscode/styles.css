@@ -38,3 +38,18 @@ body {
 .nav-links a:hover {
    color: #ff6347;
 }
+#home {
+   background-color: #f4f4f4;
+}
+
+#about {
+   background-color: #e2e2e2;
+}
+
+#services {
+   background-color: #ccc;
+}
+
+#contact {
+   background-color: #aaa;
+}
